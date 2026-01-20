@@ -72,7 +72,7 @@ To replicate this analysis on your local machine:
     pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn shap
 
 3.  **Run the Notebook:**
-    Open `Telco_Customer_Churn.ipynb` in Jupyter Notebook or Google Colab and run all cells.
+    Open `Telco.ipynb` in Jupyter Notebook or Google Colab and run all cells.
 
 ## Future Enhancements
 * **Deployment:** Deploy the model as a Flask/Streamlit web app for real-time predictions by support agents.
