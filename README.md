@@ -84,5 +84,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 **Arnab Seal**
-* [LinkedIn Profile]([https://www.linkedin.com/in/INSERT_LINK_HERE](https://www.linkedin.com/in/arnab-seal37/))
-* [GitHub Profile]([https://github.com/Geo-y20](https://github.com/arnab37seal))
+* [LinkedIn Profile](https://www.linkedin.com/in/arnab-seal37/)
+* [GitHub Profile](https://github.com/arnab37seal)
