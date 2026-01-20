@@ -66,7 +66,7 @@ Using **SHAP (SHapley Additive exPlanations)**, we moved beyond "black-box" pred
 To replicate this analysis on your local machine:
 
 1.  **Clone the repository:**
-    git clone https://github.com/[Your-Username]/Telco-Customer-Churn.git
+    git clone https://github.com/arnab37seal/Telco-Customer-Churn-Prediction.git
 
 2.  **Install dependencies:**
     pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn shap
